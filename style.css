@@ -1,0 +1,20 @@
+body {
+  height: 8000px;
+}
+
+#rotator {
+  font-size: 416px;
+  width: 1080px;
+  height: 1080px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  background: transparent url(sprite-daisy_girl-total.jpg) no-repeat 0 0;
+}
+
+/*
+::-webkit-scrollbar {
+  display: none;
+}
+*/
