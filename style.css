@@ -1,11 +1,11 @@
 body {
-  height: 8000px;
+  height: 2800px;
 }
 
 #rotator {
-  font-size: 416px;
-  width: 1080px;
-  height: 1080px;
+  font-size: 1080px;
+  width: 1em;
+  height: 1em;
   position: fixed;
   top: 0;
   right: 0;
